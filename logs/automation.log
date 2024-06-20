@@ -1,0 +1,22 @@
+06:18:25.126 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+06:18:25.153 [main] INFO  - ------ ending of used cars ------
+06:18:32.285 [main] INFO  - --------- starting the process of invalid login page ---------
+06:18:35.288 [main] INFO  - Click the userLogin button
+06:18:35.942 [main] INFO  - click on signIn button
+06:18:36.510 [main] INFO  - switching frames
+06:18:36.531 [main] INFO  - Enter the Email credentials
+06:18:37.630 [main] INFO  - Click next Button
+06:18:38.376 [main] INFO  - Print the error message
+06:18:38.481 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+06:18:38.502 [main] DEBUG - Parsing relationship: /_rels/.rels
+06:18:38.524 [main] DEBUG - Save content types part
+06:18:38.527 [main] DEBUG - Save package relationships
+06:18:38.528 [main] DEBUG - Save part 'docProps/app.xml'
+06:18:38.528 [main] DEBUG - Save part 'docProps/core.xml'
+06:18:38.530 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+06:18:38.530 [main] DEBUG - Save part 'xl/styles.xml'
+06:18:38.530 [main] DEBUG - Save part 'xl/workbook.xml'
+06:18:38.531 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+06:18:38.532 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+06:18:38.532 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+06:18:38.533 [main] INFO  - ending of invalid login page
