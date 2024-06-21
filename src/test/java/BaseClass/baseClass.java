@@ -30,7 +30,7 @@ public class baseClass {
 		if(getProperties().getProperty("execution_env").equalsIgnoreCase("remote"))
 		{
 			DesiredCapabilities capabilities = new DesiredCapabilities();
-			//os
+			//os grid
 			// Set the operating system (Windows or Mac)
 			
 			if (getProperties().getProperty("os").equalsIgnoreCase("windows")) {

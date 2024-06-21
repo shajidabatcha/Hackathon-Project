@@ -35,7 +35,7 @@ public class loginPage {
 		signin.click();
 	}
 	
-	//switch frames from home page to login window
+	//switch windows from home page to login window
 	public void switchFrame() {
 		Set<String> window = driver.getWindowHandles();
 		List<String> HandleList = new ArrayList<String>(window);

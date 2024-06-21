@@ -1,0 +1,33 @@
+11:59:36.412 [main] DEBUG - Save part 'docProps/app.xml'
+11:59:36.414 [main] DEBUG - Save part 'docProps/core.xml'
+11:59:36.415 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:59:36.416 [main] DEBUG - Save part 'xl/styles.xml'
+11:59:36.416 [main] DEBUG - Save part 'xl/workbook.xml'
+11:59:36.416 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:59:36.416 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+11:59:36.416 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+11:59:36.456 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:59:36.456 [main] DEBUG - Parsing relationship: /_rels/.rels
+11:59:36.464 [main] DEBUG - Save content types part
+11:59:36.465 [main] DEBUG - Save package relationships
+11:59:36.465 [main] DEBUG - Save part 'docProps/app.xml'
+11:59:36.465 [main] DEBUG - Save part 'docProps/core.xml'
+11:59:36.466 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:59:36.466 [main] DEBUG - Save part 'xl/styles.xml'
+11:59:36.466 [main] DEBUG - Save part 'xl/workbook.xml'
+11:59:36.467 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:59:36.467 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+11:59:36.467 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+11:59:36.505 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:59:36.505 [main] DEBUG - Parsing relationship: /_rels/.rels
+11:59:36.512 [main] DEBUG - Save content types part
+11:59:36.513 [main] DEBUG - Save package relationships
+11:59:36.513 [main] DEBUG - Save part 'docProps/app.xml'
+11:59:36.513 [main] DEBUG - Save part 'docProps/core.xml'
+11:59:36.514 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+11:59:36.514 [main] DEBUG - Save part 'xl/styles.xml'
+11:59:36.514 [main] DEBUG - Save part 'xl/workbook.xml'
+11:59:36.515 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+11:59:36.515 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+11:59:36.515 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+11:59:36.565 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
