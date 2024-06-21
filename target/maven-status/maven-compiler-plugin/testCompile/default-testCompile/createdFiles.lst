@@ -1,6 +1,5 @@
 Bikes\loginPage.class
 StepDefinition\invalidLoginTest.class
-Runner\runnerClass.class
 Bikes\identifyBikes.class
 StepDefinition\usedCarsTest.class
 Utilities\ExcelUtility.class

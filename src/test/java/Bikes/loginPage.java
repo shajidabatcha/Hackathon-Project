@@ -22,7 +22,7 @@ public class loginPage {
 	}
 	
 	
-	@FindBy(xpath="//div[@class='nsm7Bb-HzV7m-LgbsSe-Bz112c']") WebElement signin;
+	@FindBy(xpath="//div[@class='S9gUrf-YoZ4jf']") WebElement signin;
 	@FindBy(xpath="//input[@type='email']")WebElement email;
 	@FindBy(xpath="(//button[@type='button'])[3]") WebElement next;
 	@FindBy(xpath="//div[@class='Ekjuhf Jj6Lae']") WebElement errorMsg;

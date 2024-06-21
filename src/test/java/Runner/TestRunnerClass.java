@@ -16,15 +16,10 @@ import io.cucumber.junit.CucumberOptions;
 				"rerun:target/rerun.txt",
 				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 				
-		},
-		dryRun = false, //When set to true, Cucumber will check if all step definitions have corresponding step implementations. 
-		                //If set to false, it will execute the tests.
-		monochrome = true, // to avoid junk character in output
-		publish=true // to publish report in cucumber server
-		
+		}
 		)
 
-public class runnerClass {
+public class TestRunnerClass {
 
 	
 }

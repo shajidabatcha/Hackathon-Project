@@ -1,32 +1,6 @@
-11:59:36.566 [main] DEBUG - Parsing relationship: /_rels/.rels
-11:59:36.581 [main] DEBUG - Save content types part
-11:59:36.582 [main] DEBUG - Save package relationships
-11:59:36.582 [main] DEBUG - Save part 'docProps/app.xml'
-11:59:36.582 [main] DEBUG - Save part 'docProps/core.xml'
-11:59:36.583 [main] DEBUG - Save part 'xl/sharedStrings.xml'
-11:59:36.583 [main] DEBUG - Save part 'xl/styles.xml'
-11:59:36.583 [main] DEBUG - Save part 'xl/workbook.xml'
-11:59:36.584 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
-11:59:36.584 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
-11:59:36.584 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
-11:59:36.607 [main] INFO  - ------ ending of used cars ------
-11:59:43.655 [main] INFO  - --------- starting the process of invalid login page ---------
-11:59:46.671 [main] INFO  - Click the userLogin button
-11:59:47.051 [main] INFO  - click on signIn button
-11:59:47.464 [main] INFO  - switching frames
-11:59:47.476 [main] INFO  - Enter the Email credentials
-11:59:49.539 [main] INFO  - Click next Button
-11:59:50.169 [main] INFO  - Print the error message
-11:59:50.389 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:59:50.389 [main] DEBUG - Parsing relationship: /_rels/.rels
-11:59:50.403 [main] DEBUG - Save content types part
-11:59:50.406 [main] DEBUG - Save package relationships
-11:59:50.407 [main] DEBUG - Save part 'docProps/app.xml'
-11:59:50.408 [main] DEBUG - Save part 'docProps/core.xml'
-11:59:50.409 [main] DEBUG - Save part 'xl/sharedStrings.xml'
-11:59:50.409 [main] DEBUG - Save part 'xl/styles.xml'
-11:59:50.409 [main] DEBUG - Save part 'xl/workbook.xml'
-11:59:50.411 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
-11:59:50.411 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
-11:59:50.411 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
-11:59:50.412 [main] INFO  - ending of invalid login page
+15:28:34.499 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:28:34.507 [main] DEBUG - Save part 'xl/styles.xml'
+15:28:34.508 [main] DEBUG - Save part 'xl/workbook.xml'
+15:28:34.512 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:28:34.512 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:28:34.513 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
